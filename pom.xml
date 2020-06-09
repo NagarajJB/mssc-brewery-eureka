@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.njb</groupId>
 	<artifactId>mssc-brewery-eureka</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>mssc-brewery-eureka</name>
 	<description>mssc-brewery-eureka</description>
 
@@ -111,7 +111,7 @@
 		<connection>scm:git:git@github.com:NagarajJB/mssc-brewery-eureka.git</connection>
 		<developerConnection>scm:git:git@github.com:NagarajJB/mssc-brewery-eureka.git</developerConnection>
 		<url>https://github.com/NagarajJB/mssc-brewery-eureka.git</url>
-		<tag>mssc-brewery-eureka-0.0.2</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<distributionManagement>
